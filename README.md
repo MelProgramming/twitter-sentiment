@@ -76,7 +76,7 @@ tweet_id, text, polarity, sentiment
 
   ---
   
-📝 License
+## 📝 License
 
 This project is open-source under the MIT License.
 
@@ -85,3 +85,4 @@ This project is open-source under the MIT License.
 ## 🤝 Contributing 
 Pull requests are welcome!
 If you'd like to contribute or suggest improvements, feel free to open an issue.
+
