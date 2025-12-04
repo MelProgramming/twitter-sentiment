@@ -19,9 +19,9 @@ A Python project that collects recent tweets about any topic and analyzes their 
 twitter-sentiment/
 │── data/                   # Stores CSV output files
 │── src/
-│   ├── api.py              # Handles Twitter API communication
-│   ├── sentiment.py        # TextBlob sentiment analysis
-│   ├── preprocess.py       # Text cleaning utilities
+│   ├── twitter_client.py              # Handles Twitter API communication
+│   ├── twitter_sentiment.py        # TextBlob sentiment analysis
+│   ├── utils.py       # Text cleaning utilities
 │   └── main.py             # Program entry point
 │── .gitignore
 │── requirements.txt         # Dependencies
@@ -79,3 +79,4 @@ tweet_id, text, polarity, sentiment
 ## Contributing 
 Pull requests are welcome!
 If you'd like to contribute or suggest improvements, feel free to open an issue.
+
