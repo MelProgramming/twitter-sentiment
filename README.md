@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-A Python project that collects recent tweets about any topic and analyzes their sentiment using **Text Blob**. This project is structured like a real-world application, split into multiple modules for clariy and scalability.
+A Python project that collects recent tweets about any topic and analyzes their sentiment using **Text Blob**. This project is structured like a real-world application, split into multiple modules for clarity and scalability.
 
 ---
 
